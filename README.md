@@ -3,7 +3,9 @@ I am a third-year student from The Chinese University of Hong Kong
 
 ## Tech:
 - JavaScript
+- TypeScript
 - React
+- Vue
 - jQuery
 - Nodejs
 - Django
