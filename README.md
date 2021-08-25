@@ -46,9 +46,6 @@ A fourth-year computer science student from The Chinese University of Hong Kong
 <br>
 <div>
   <a herf="https://github.com/Ngkaokis/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngkaokis" />
-  </a>
-  <a herf="https://github.com/Ngkaokis/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=Ngkaokis&show_icons=true&count_private=true&theme=tokyonight" />
   </a>
 </div>
