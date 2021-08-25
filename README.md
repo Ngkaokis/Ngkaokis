@@ -26,9 +26,8 @@ A fourth-year computer science student from The Chinese University of Hong Kong
         <ul>
           <li>JavaScript</li>
           <li>React</li>
-          <li>Vue</li>
+          <li>VueJS</li>
           <li>jQuery</li>
-          <li>Django</li>
           <li>Django</li>
           <li>MongoDB</li>
         </ul>
