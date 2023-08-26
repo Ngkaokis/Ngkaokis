@@ -1,56 +1,5 @@
 # Hi, I am Tang Ka Lok Davis  
-A fourth-year computer science student from The Chinese University of Hong Kong
-<br>
-<div>
-  <table>
-    <tr>
-      <th align="center">
-      <img width="441" height="1">
-      <p> 
-      <small>
-      Tech
-      </small>
-      </p>
-      </th>
-      <th align="center">
-      <img width="441" height="1">
-      <p> 
-      <small>
-      Learning
-      </small>
-      </p>
-      </th>
-      </tr>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li>JavaScript</li>
-          <li>React</li>
-          <li>VueJS</li>
-          <li>jQuery</li>
-          <li>Django</li>
-          <li>MongoDB</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li>Typescript</li>
-          <li>Docker</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  
-  
-</div>
-<br>
-<div>
-  <a herf="https://github.com/Ngkaokis/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Ngkaokis&show_icons=true&count_private=true&theme=tokyonight" />
-  </a>
-</div>
-
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f236f27c-5a62-4499-b27c-7fbc2357a7f7/6faa0003-0a5f-43cb-98c0-52b50a887cd6.png" /></a>
 
 
 
